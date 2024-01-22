@@ -4,4 +4,6 @@ use (
 	./base
 	./composition
 	./hello
+	./interface_partial
+	./interface_whole
 )
