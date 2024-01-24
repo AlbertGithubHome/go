@@ -7,4 +7,5 @@ use (
 	./hello
 	./interface_partial
 	./interface_whole
+	./pointer
 )
