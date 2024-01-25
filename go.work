@@ -8,4 +8,5 @@ use (
 	./interface_partial
 	./interface_whole
 	./pointer
+	./select_case
 )
