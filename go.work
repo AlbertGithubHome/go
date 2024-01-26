@@ -3,6 +3,7 @@ go 1.19
 use (
 	./base
 	./composition
+	./constant
 	./grace_exit
 	./hello
 	./interface_partial
