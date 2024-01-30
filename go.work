@@ -11,6 +11,7 @@ use (
 	./lib_flag
 	./lib_json
 	./lib_xml
+	./lib_yaml
 	./pointer
 	./select_case
 )
