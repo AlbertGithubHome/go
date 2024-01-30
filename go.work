@@ -9,6 +9,7 @@ use (
 	./interface_partial
 	./interface_whole
 	./lib_flag
+	./lib_json
 	./pointer
 	./select_case
 )
