@@ -4,6 +4,7 @@ use (
 	./base
 	./composition
 	./constant
+	./defer
 	./grace_exit
 	./hello
 	./interface_partial
