@@ -8,6 +8,7 @@ use (
 	./hello
 	./interface_partial
 	./interface_whole
+	./lib_atomic
 	./lib_flag
 	./lib_json
 	./lib_xml
