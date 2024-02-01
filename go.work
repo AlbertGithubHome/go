@@ -11,6 +11,7 @@ use (
 	./interface_whole
 	./lib_atomic
 	./lib_flag
+	./lib_http
 	./lib_json
 	./lib_waitgroup
 	./lib_xml
