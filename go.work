@@ -18,4 +18,6 @@ use (
 	./lib_yaml
 	./pointer
 	./select_case
+	./tcp_client
+	./tcp_server
 )
