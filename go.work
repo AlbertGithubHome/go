@@ -20,4 +20,6 @@ use (
 	./select_case
 	./tcp_client
 	./tcp_server
+	./websocket_client
+	./websocket_server
 )
