@@ -4,6 +4,7 @@ use (
 	./base
 	./composition
 	./constant
+	./daemon
 	./defer
 	./grace_exit
 	./hello
