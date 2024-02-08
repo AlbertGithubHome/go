@@ -25,6 +25,8 @@ $ go run .
 [INFO]  2024/02/08 14:45:09 这是一条普通信息
 [WARN]  2024/02/08 14:45:09 这是一条警告信息
 [ERROR] 2024/02/08 14:45:09 main.main:lib_log.go:17 这是一条错误信息
+[FATAL] 2024/02/08 14:48:22 main.main:lib_log.go:18 这是一条致命错误信息
+exit status 1
 
 
 这段代码是一个简单的Go程序，使用了 `github.com/withmandala/go-log` 包来记录不同级别的日志信息。
