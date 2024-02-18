@@ -16,6 +16,7 @@ use (
 	./lib_http
 	./lib_json
 	./lib_log
+	./lib_protobuf
 	./lib_waitgroup
 	./lib_xlsx
 	./lib_xml
