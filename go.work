@@ -8,6 +8,7 @@ use (
 	./defer
 	./grace_exit
 	./hello
+	./init
 	./interface_partial
 	./interface_whole
 	./lib_atomic
