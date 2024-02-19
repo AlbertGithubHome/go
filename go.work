@@ -22,6 +22,7 @@ use (
 	./lib_xlsx
 	./lib_xml
 	./lib_yaml
+	./math_test
 	./pointer
 	./select_case
 	./tcp_client
