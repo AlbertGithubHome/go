@@ -38,6 +38,12 @@ MAINLOOP:
 }
 
 /*
+$ go run .
+Message from channel 2
+Message from channel 1
+Timeout: No communication within 3 seconds
+
+
 在 Go 语言中，select 语句用于处理一组通信操作，可以与 case 语句搭配使用。
 select 语句使得程序可以等待多个通信操作中的任意一个完成，并执行相应的代码块。
 
