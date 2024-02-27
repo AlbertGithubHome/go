@@ -27,6 +27,7 @@ use (
 	./math_test
 	./pointer
 	./select_case
+	./slice
 	./tcp_client
 	./tcp_server
 	./websocket_client
