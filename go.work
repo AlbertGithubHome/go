@@ -26,6 +26,7 @@ use (
 	./lib_yaml
 	./math_test
 	./pointer
+	./rune
 	./select_case
 	./slice
 	./tcp_client
