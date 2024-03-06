@@ -15,6 +15,7 @@ use (
 	./interface_whole
 	./lib_atomic
 	./lib_base64
+	./lib_encoding
 	./lib_flag
 	./lib_http
 	./lib_json
