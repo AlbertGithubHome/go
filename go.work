@@ -30,6 +30,7 @@ use (
 	./rune
 	./select_case
 	./slice
+	./slice_advance
 	./tcp_client
 	./tcp_server
 	./websocket_client
