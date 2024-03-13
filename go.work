@@ -33,6 +33,7 @@ use (
 	./slice
 	./slice_advance
 	./struct
+	./struct_advance
 	./tcp_client
 	./tcp_server
 	./websocket_client
