@@ -32,6 +32,7 @@ use (
 	./select_case
 	./slice
 	./slice_advance
+	./struct
 	./tcp_client
 	./tcp_server
 	./websocket_client
