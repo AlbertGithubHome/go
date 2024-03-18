@@ -27,6 +27,7 @@ use (
 	./lib_yaml
 	./map
 	./math_test
+	./panic_recover
 	./pointer
 	./rune
 	./select_case
